@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dotnet\\csharp-examples\\01-EstruturaDoPrograma\\EstruturaDoPrograma.csproj": {}
+    "C:\\Users\\ajolu\\Documents\\PilhaNoCSharp\\EstruturaDoPrograma.csproj": {}
   },
   "projects": {
-    "C:\\dotnet\\csharp-examples\\01-EstruturaDoPrograma\\EstruturaDoPrograma.csproj": {
+    "C:\\Users\\ajolu\\Documents\\PilhaNoCSharp\\EstruturaDoPrograma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotnet\\csharp-examples\\01-EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
+        "projectUniqueName": "C:\\Users\\ajolu\\Documents\\PilhaNoCSharp\\EstruturaDoPrograma.csproj",
         "projectName": "EstruturaDoPrograma",
-        "projectPath": "C:\\dotnet\\csharp-examples\\01-EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
-        "packagesPath": "C:\\Users\\JM\\.nuget\\packages\\",
-        "outputPath": "C:\\dotnet\\csharp-examples\\01-EstruturaDoPrograma\\obj\\",
+        "projectPath": "C:\\Users\\ajolu\\Documents\\PilhaNoCSharp\\EstruturaDoPrograma.csproj",
+        "packagesPath": "C:\\Users\\ajolu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ajolu\\Documents\\PilhaNoCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\JM\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ajolu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
